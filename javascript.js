@@ -16,3 +16,32 @@
             document.getElementById("output").style.display = "flex";
             document.getElementById("output").innerHTML = voteable;
         }
+//1 
+//1 
+//1 
+//1 
+//1 
+//1 
+//1 
+//1 
+//1 
+//1 
+//1 
+//1 
+//1 
+//1 
+//1 
+//1 
+//1 
+//1 
+//1 
+//1 
+//1 
+//1 
+//1 
+//1 
+//1 
+//1 
+//1 
+//1 
+//1 
