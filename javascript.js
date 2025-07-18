@@ -17,10 +17,10 @@
             document.getElementById("output").innerHTML = voteable;
         }
 //1 
-//1 
-//1 
-//1 
-//1 
+ //1 
+ //1 
+     //1 
+//1  this is the webiste 
 //1 
 //1 
 //1 
